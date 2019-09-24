@@ -38,4 +38,8 @@ public class ButtonSettings : MonoBehaviour
     {
         SceneManager.LoadScene("MainMenu");
     }
+    public void backscene()
+    {
+        SceneManager.LoadScene("MainMenu");
+    }
 }
