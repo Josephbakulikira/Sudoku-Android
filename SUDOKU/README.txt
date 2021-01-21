@@ -1,5 +1,5 @@
 
-sudoku by joseph Bakulikira (Auctux)
+sudoku by joseph B (Auctux)
 
 joseph b: 1.FIRST COMMIT 1.0: first commitement containing the basic files 
 joseph b: 2.SECONDCOMMITEMENT2.0: add readme
